@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Launcher3
 =========
 
@@ -29,3 +30,7 @@ Launcher3
 * [LauncherRootView和DragLayer的布局过程](http://www.fookwood.com/archives/1085)
 
 
+=======
+# Launcher3_o_mr1
+for test
+>>>>>>> 3a591f176896bf19af774db6450259a9b53c54ae
